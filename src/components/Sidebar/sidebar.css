@@ -1,0 +1,43 @@
+.side-bar {
+    width: 200px;
+    padding: 20px 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 9px;
+  }
+  
+  .side-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: inherit; /* Inherit color from parent element */
+    text-decoration: none;
+  }
+  
+  .side-bar h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .side-bar ul ul {
+    margin-left: 20px;
+  }
+  
+  .side-bar ul ul li {
+    padding: 8px 0;
+  }
+  
+  .side-bar ul ul li:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Horizontal line */
+  .side-bar hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+  
+  
+  

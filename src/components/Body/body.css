@@ -1,0 +1,18 @@
+.body{
+    display: flex;
+    flex-direction: row;
+}
+  
+.button-view {
+    display: flex;
+    flex-direction: row;
+    
+    
+} 
+.button-view > button{
+    border: solid lightgrey;
+    padding: 10px;
+    margin:0 0.5rem;
+    border-radius:20px;
+    margin-top: 5px;
+}

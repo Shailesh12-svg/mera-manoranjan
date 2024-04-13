@@ -1,0 +1,43 @@
+.videos {
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    max-width: 300px;
+    padding: 20px;
+  }
+  
+  .videos img {
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ccc;
+    border-radius: 22px;
+  }
+  
+  .videos .info {
+    padding: 15px;
+    align-items: center;
+  }
+  
+  .videos .info h3 {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.2;
+  }
+  
+  .videos .info p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .videos .info .view-count {
+    color: #909090;
+    font-size: 14px;
+  }
+  .title{
+    font-weight: bold;
+  }
+  

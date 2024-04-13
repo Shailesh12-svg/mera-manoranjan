@@ -1,0 +1,13 @@
+/* ChatMessage.css */
+.main1 {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+  
+}
+.name{
+  font-weight: bold;
+  padding:10px;
+}
+
+

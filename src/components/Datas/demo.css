@@ -1,0 +1,19 @@
+.main2{
+display: flex;
+border: 1px solid black;
+height:300px;
+width:300px;
+padding: 10px;
+margin: 10px;
+}
+.main3{
+    background-color:gray;
+}
+.demo2{
+    display: flex;
+    border: 1px solid black;
+    height:300px;
+    width:300px;
+    padding: 10px;
+    margin: 10px; 
+}
